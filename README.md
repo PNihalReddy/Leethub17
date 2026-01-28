@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0575-distribute-candies](https://github.com/PNihalReddy/Leethub17/tree/master/0575-distribute-candies) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/PNihalReddy/Leethub17/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1732-find-the-highest-altitude](https://github.com/PNihalReddy/Leethub17/tree/master/1732-find-the-highest-altitude) |
 ## Prefix Sum
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0575-distribute-candies](https://github.com/PNihalReddy/Leethub17/tree/master/0575-distribute-candies) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/PNihalReddy/Leethub17/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
