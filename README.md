@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/PNihalReddy/Leethub17/tree/master/0575-distribute-candies) |
 | [0896-monotonic-array](https://github.com/PNihalReddy/Leethub17/tree/master/0896-monotonic-array) |
 | [0941-valid-mountain-array](https://github.com/PNihalReddy/Leethub17/tree/master/0941-valid-mountain-array) |
+| [0976-largest-perimeter-triangle](https://github.com/PNihalReddy/Leethub17/tree/master/0976-largest-perimeter-triangle) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/PNihalReddy/Leethub17/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1732-find-the-highest-altitude](https://github.com/PNihalReddy/Leethub17/tree/master/1732-find-the-highest-altitude) |
 ## Prefix Sum
@@ -31,10 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0976-largest-perimeter-triangle](https://github.com/PNihalReddy/Leethub17/tree/master/0976-largest-perimeter-triangle) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/PNihalReddy/Leethub17/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Math
 |  |
 | ------- |
+| [0976-largest-perimeter-triangle](https://github.com/PNihalReddy/Leethub17/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/PNihalReddy/Leethub17/tree/master/1025-divisor-game) |
 ## Dynamic Programming
 |  |
@@ -48,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/PNihalReddy/Leethub17/tree/master/1025-divisor-game) |
+## Greedy
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/PNihalReddy/Leethub17/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
