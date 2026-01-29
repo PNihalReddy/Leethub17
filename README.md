@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/PNihalReddy/Leethub17/tree/master/0941-valid-mountain-array) |
 | [0976-largest-perimeter-triangle](https://github.com/PNihalReddy/Leethub17/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/PNihalReddy/Leethub17/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/PNihalReddy/Leethub17/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/PNihalReddy/Leethub17/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/PNihalReddy/Leethub17/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1732-find-the-highest-altitude](https://github.com/PNihalReddy/Leethub17/tree/master/1732-find-the-highest-altitude) |
