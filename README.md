@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/PNihalReddy/Leethub17/tree/master/0896-monotonic-array) |
 | [0941-valid-mountain-array](https://github.com/PNihalReddy/Leethub17/tree/master/0941-valid-mountain-array) |
 | [0976-largest-perimeter-triangle](https://github.com/PNihalReddy/Leethub17/tree/master/0976-largest-perimeter-triangle) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/PNihalReddy/Leethub17/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/PNihalReddy/Leethub17/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1732-find-the-highest-altitude](https://github.com/PNihalReddy/Leethub17/tree/master/1732-find-the-highest-altitude) |
 ## Prefix Sum
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/PNihalReddy/Leethub17/tree/master/0976-largest-perimeter-triangle) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/PNihalReddy/Leethub17/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/PNihalReddy/Leethub17/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Math
 |  |
@@ -55,4 +57,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/PNihalReddy/Leethub17/tree/master/0976-largest-perimeter-triangle) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/PNihalReddy/Leethub17/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 <!---LeetCode Topics End-->
