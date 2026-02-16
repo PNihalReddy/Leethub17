@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/PNihalReddy/Leethub17/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/PNihalReddy/Leethub17/tree/master/1025-divisor-game) |
+| [2235-add-two-integers](https://github.com/PNihalReddy/Leethub17/tree/master/2235-add-two-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
