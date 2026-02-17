@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/PNihalReddy/Leethub17/tree/master/0027-remove-element) |
 | [0575-distribute-candies](https://github.com/PNihalReddy/Leethub17/tree/master/0575-distribute-candies) |
+| [0877-stone-game](https://github.com/PNihalReddy/Leethub17/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/PNihalReddy/Leethub17/tree/master/0896-monotonic-array) |
 | [0941-valid-mountain-array](https://github.com/PNihalReddy/Leethub17/tree/master/0941-valid-mountain-array) |
 | [0976-largest-perimeter-triangle](https://github.com/PNihalReddy/Leethub17/tree/master/0976-largest-perimeter-triangle) |
@@ -44,12 +45,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/PNihalReddy/Leethub17/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/PNihalReddy/Leethub17/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/PNihalReddy/Leethub17/tree/master/1025-divisor-game) |
 | [2235-add-two-integers](https://github.com/PNihalReddy/Leethub17/tree/master/2235-add-two-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/PNihalReddy/Leethub17/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/PNihalReddy/Leethub17/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/PNihalReddy/Leethub17/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/PNihalReddy/Leethub17/tree/master/1025-divisor-game) |
 ## Greedy
 |  |
