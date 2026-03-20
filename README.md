@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/PNihalReddy/Leethub17/tree/master/0027-remove-element) |
+| [0238-product-of-array-except-self](https://github.com/PNihalReddy/Leethub17/tree/master/0238-product-of-array-except-self) |
 | [0575-distribute-candies](https://github.com/PNihalReddy/Leethub17/tree/master/0575-distribute-candies) |
 | [0877-stone-game](https://github.com/PNihalReddy/Leethub17/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/PNihalReddy/Leethub17/tree/master/0896-monotonic-array) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/PNihalReddy/Leethub17/tree/master/0238-product-of-array-except-self) |
 | [1732-find-the-highest-altitude](https://github.com/PNihalReddy/Leethub17/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
 |  |
