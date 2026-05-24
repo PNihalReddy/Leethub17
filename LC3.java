@@ -1,0 +1,37 @@
+public class LC3
+{
+    public int minimumSwaps(int[] nums) 
+    {
+        int l=0;
+        int r=nums.length-1;
+        int swaps=0;
+
+        while(l<r)
+        {
+            while(l<r && nums[l]!=0)
+            {
+                l++;
+            }
+
+            while(l<r && nums[r]==0)
+            {
+                r--;
+            }
+
+            if(l<r)
+            {
+                int t=nums[l];
+                nums[l]=nums[r];
+                nums[r]=t;
+
+                swaps++;
+                l++;
+                r--;
+                
+            }
+        }
+
+        return swaps;
+        
+    }
+}
