@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/PNihalReddy/Leethub17/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/PNihalReddy/Leethub17/tree/master/0035-search-insert-position) |
+| [0136-single-number](https://github.com/PNihalReddy/Leethub17/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/PNihalReddy/Leethub17/tree/master/0238-product-of-array-except-self) |
 | [0575-distribute-candies](https://github.com/PNihalReddy/Leethub17/tree/master/0575-distribute-candies) |
 | [0877-stone-game](https://github.com/PNihalReddy/Leethub17/tree/master/0877-stone-game) |
@@ -104,5 +105,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/PNihalReddy/Leethub17/tree/master/0136-single-number) |
 | [2032-two-out-of-three](https://github.com/PNihalReddy/Leethub17/tree/master/2032-two-out-of-three) |
 <!---LeetCode Topics End-->
