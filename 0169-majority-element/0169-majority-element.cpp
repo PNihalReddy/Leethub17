@@ -5,30 +5,27 @@ public:
     {
         int n=nums.size();
 
-        sort(nums.begin() , nums.end());
-
-        int i,f=1;
-        int ans=nums[0];
-
-        for(i=1;i<n;i++)
+        int i,f=0,ans=0;
+        
+        for(i=0;i<n;i++)
         {
-            if(nums[i]==nums[i-1])
+            if(f==0)
             {
-                f++;
-            }
-            else
-            {
-                f=1;
                 ans=nums[i];
             }
 
-            if(f>n/2)
+            if(nums[i]==ans)
             {
-                return ans;
+                f++;
+            }
+
+            else
+            {
+                f--;
             }
         }
 
-        return nums[0];
-
+        return ans;
+        
     }
 };
