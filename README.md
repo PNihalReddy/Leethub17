@@ -120,4 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/PNihalReddy/Leethub17/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/PNihalReddy/Leethub17/tree/master/0169-majority-element) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/PNihalReddy/Leethub17/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/PNihalReddy/Leethub17/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
