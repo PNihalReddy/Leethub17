@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/PNihalReddy/Leethub17/tree/master/0941-valid-mountain-array) |
 | [0976-largest-perimeter-triangle](https://github.com/PNihalReddy/Leethub17/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/PNihalReddy/Leethub17/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1046-last-stone-weight](https://github.com/PNihalReddy/Leethub17/tree/master/1046-last-stone-weight) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/PNihalReddy/Leethub17/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/PNihalReddy/Leethub17/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PNihalReddy/Leethub17/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -128,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/PNihalReddy/Leethub17/tree/master/0877-stone-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/PNihalReddy/Leethub17/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
