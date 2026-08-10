@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/PNihalReddy/Leethub17/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/PNihalReddy/Leethub17/tree/master/0125-valid-palindrome) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/PNihalReddy/Leethub17/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/PNihalReddy/Leethub17/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/PNihalReddy/Leethub17/tree/master/0171-excel-sheet-column-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/PNihalReddy/Leethub17/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1108-defanging-an-ip-address](https://github.com/PNihalReddy/Leethub17/tree/master/1108-defanging-an-ip-address) |
