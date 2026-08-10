@@ -4,11 +4,11 @@ class Solution
     {
         while(!str2.isEmpty())
         {
-            if(str1.length() < str2.length())
+            if(str2.length() > str1.length())
             {
-                String temp = str1;
+                String t=str1;
                 str1=str2;
-                str2=temp;
+                str2=t;
             }
 
             if(!str1.startsWith(str2))
@@ -22,6 +22,6 @@ class Solution
         }
 
         return str1;
-        
+
     }
 }
