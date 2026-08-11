@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/PNihalReddy/Leethub17/tree/master/0575-distribute-candies) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/PNihalReddy/Leethub17/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PNihalReddy/Leethub17/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/PNihalReddy/Leethub17/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2032-two-out-of-three](https://github.com/PNihalReddy/Leethub17/tree/master/2032-two-out-of-three) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/PNihalReddy/Leethub17/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Two Pointers
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/PNihalReddy/Leethub17/tree/master/1108-defanging-an-ip-address) |
 | [1446-consecutive-characters](https://github.com/PNihalReddy/Leethub17/tree/master/1446-consecutive-characters) |
 | [1678-goal-parser-interpretation](https://github.com/PNihalReddy/Leethub17/tree/master/1678-goal-parser-interpretation) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/PNihalReddy/Leethub17/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Counting Sort
 |  |
 | ------- |
