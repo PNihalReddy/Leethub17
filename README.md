@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/PNihalReddy/Leethub17/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/PNihalReddy/Leethub17/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/PNihalReddy/Leethub17/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/PNihalReddy/Leethub17/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PNihalReddy/Leethub17/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/PNihalReddy/Leethub17/tree/master/0575-distribute-candies) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/PNihalReddy/Leethub17/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/PNihalReddy/Leethub17/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/PNihalReddy/Leethub17/tree/master/0205-isomorphic-strings) |
 | [0680-valid-palindrome-ii](https://github.com/PNihalReddy/Leethub17/tree/master/0680-valid-palindrome-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/PNihalReddy/Leethub17/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1108-defanging-an-ip-address](https://github.com/PNihalReddy/Leethub17/tree/master/1108-defanging-an-ip-address) |
