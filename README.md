@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/PNihalReddy/Leethub17/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/PNihalReddy/Leethub17/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/PNihalReddy/Leethub17/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PNihalReddy/Leethub17/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/PNihalReddy/Leethub17/tree/master/0575-distribute-candies) |
 | [0877-stone-game](https://github.com/PNihalReddy/Leethub17/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/PNihalReddy/Leethub17/tree/master/0896-monotonic-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/PNihalReddy/Leethub17/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/PNihalReddy/Leethub17/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/PNihalReddy/Leethub17/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PNihalReddy/Leethub17/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/PNihalReddy/Leethub17/tree/master/0575-distribute-candies) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/PNihalReddy/Leethub17/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PNihalReddy/Leethub17/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
