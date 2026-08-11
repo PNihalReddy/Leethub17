@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/PNihalReddy/Leethub17/tree/master/1732-find-the-highest-altitude) |
 | [2032-two-out-of-three](https://github.com/PNihalReddy/Leethub17/tree/master/2032-two-out-of-three) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/PNihalReddy/Leethub17/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/PNihalReddy/Leethub17/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -154,5 +155,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/PNihalReddy/Leethub17/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2843-count-symmetric-integers](https://github.com/PNihalReddy/Leethub17/tree/master/2843-count-symmetric-integers) |
 <!---LeetCode Topics End-->
