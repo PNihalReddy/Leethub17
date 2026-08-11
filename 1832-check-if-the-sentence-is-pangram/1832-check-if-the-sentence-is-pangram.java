@@ -27,7 +27,7 @@ class Solution
         int l=f.length;
         int count=0;
 
-        for(i=0;i<l;i++)
+        for(i=0;i<=max;i++)
         {
             if(f[i]>0)
             {
