@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PNihalReddy/Leethub17/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PNihalReddy/Leethub17/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/PNihalReddy/Leethub17/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/PNihalReddy/Leethub17/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/PNihalReddy/Leethub17/tree/master/0268-missing-number) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PNihalReddy/Leethub17/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/PNihalReddy/Leethub17/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/PNihalReddy/Leethub17/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/PNihalReddy/Leethub17/tree/master/0205-isomorphic-strings) |
@@ -190,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/PNihalReddy/Leethub17/tree/master/0287-find-the-duplicate-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PNihalReddy/Leethub17/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
