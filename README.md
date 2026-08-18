@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/PNihalReddy/Leethub17/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/PNihalReddy/Leethub17/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/PNihalReddy/Leethub17/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/PNihalReddy/Leethub17/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/PNihalReddy/Leethub17/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/PNihalReddy/Leethub17/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/PNihalReddy/Leethub17/tree/master/0877-stone-game) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/PNihalReddy/Leethub17/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/PNihalReddy/Leethub17/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/PNihalReddy/Leethub17/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/PNihalReddy/Leethub17/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/PNihalReddy/Leethub17/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/PNihalReddy/Leethub17/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/PNihalReddy/Leethub17/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/PNihalReddy/Leethub17/tree/master/0645-set-mismatch) |
 | [2032-two-out-of-three](https://github.com/PNihalReddy/Leethub17/tree/master/2032-two-out-of-three) |
 ## Divide and Conquer
