@@ -7,14 +7,12 @@ class Solution
             return false;
         }    
 
-        int temp=n;
-
-        while(temp%4==0)
+        while(n%4==0)
         {
-            temp/=4;    
+            n/=4;    
         }
 
-        return temp==1;
+        return n==1;
 
     }
 }
