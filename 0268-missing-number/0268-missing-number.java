@@ -2,16 +2,20 @@ class Solution
 {
     public int missingNumber(int[] nums) 
     {
+        int ans=0;
+        int i;
         int n = nums.length;
-        int expected_sum=n*(n+1)/2;
 
-        int actual_sum=0;
+        for(i=0;i<=n;i++)
+        {
+            ans^=i;
+        }
+
         for(int ele : nums)
         {
-            actual_sum+=ele;
-        }    
+            ans^=ele;
+        }
 
-        int ans=expected_sum-actual_sum;
         return ans;
         
     }
