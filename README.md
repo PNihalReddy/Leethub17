@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/PNihalReddy/Leethub17/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/PNihalReddy/Leethub17/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/PNihalReddy/Leethub17/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/PNihalReddy/Leethub17/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/PNihalReddy/Leethub17/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/PNihalReddy/Leethub17/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PNihalReddy/Leethub17/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/PNihalReddy/Leethub17/tree/master/0239-sliding-window-maximum) |
 | [1046-last-stone-weight](https://github.com/PNihalReddy/Leethub17/tree/master/1046-last-stone-weight) |
 ## Euclidean Algorithm
 |  |
@@ -206,4 +208,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PNihalReddy/Leethub17/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/PNihalReddy/Leethub17/tree/master/0239-sliding-window-maximum) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/PNihalReddy/Leethub17/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/PNihalReddy/Leethub17/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/PNihalReddy/Leethub17/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
