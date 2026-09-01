@@ -221,4 +221,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/PNihalReddy/Leethub17/tree/master/0239-sliding-window-maximum) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/PNihalReddy/Leethub17/tree/master/0101-symmetric-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/PNihalReddy/Leethub17/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/PNihalReddy/Leethub17/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/PNihalReddy/Leethub17/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
