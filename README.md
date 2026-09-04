@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/PNihalReddy/Leethub17/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/PNihalReddy/Leethub17/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/PNihalReddy/Leethub17/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/PNihalReddy/Leethub17/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PNihalReddy/Leethub17/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/PNihalReddy/Leethub17/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/PNihalReddy/Leethub17/tree/master/0645-set-mismatch) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/PNihalReddy/Leethub17/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/PNihalReddy/Leethub17/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/PNihalReddy/Leethub17/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/PNihalReddy/Leethub17/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PNihalReddy/Leethub17/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/PNihalReddy/Leethub17/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/PNihalReddy/Leethub17/tree/master/0645-set-mismatch) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/PNihalReddy/Leethub17/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/PNihalReddy/Leethub17/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/PNihalReddy/Leethub17/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/PNihalReddy/Leethub17/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/PNihalReddy/Leethub17/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/PNihalReddy/Leethub17/tree/master/0680-valid-palindrome-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/PNihalReddy/Leethub17/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/PNihalReddy/Leethub17/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/PNihalReddy/Leethub17/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/PNihalReddy/Leethub17/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/PNihalReddy/Leethub17/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/PNihalReddy/Leethub17/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/PNihalReddy/Leethub17/tree/master/0633-sum-of-square-numbers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/PNihalReddy/Leethub17/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -78,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/PNihalReddy/Leethub17/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/PNihalReddy/Leethub17/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/PNihalReddy/Leethub17/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/PNihalReddy/Leethub17/tree/master/0645-set-mismatch) |
 | [0976-largest-perimeter-triangle](https://github.com/PNihalReddy/Leethub17/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/PNihalReddy/Leethub17/tree/master/1005-maximize-sum-of-array-after-k-negations) |
