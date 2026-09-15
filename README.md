@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/PNihalReddy/Leethub17/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/PNihalReddy/Leethub17/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2235-add-two-integers](https://github.com/PNihalReddy/Leethub17/tree/master/2235-add-two-integers) |
+| [2652-sum-multiples](https://github.com/PNihalReddy/Leethub17/tree/master/2652-sum-multiples) |
 | [2843-count-symmetric-integers](https://github.com/PNihalReddy/Leethub17/tree/master/2843-count-symmetric-integers) |
 ## Dynamic Programming
 |  |
