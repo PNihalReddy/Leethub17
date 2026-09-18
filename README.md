@@ -249,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/PNihalReddy/Leethub17/tree/master/0101-symmetric-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/PNihalReddy/Leethub17/tree/master/0222-count-complete-tree-nodes) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/PNihalReddy/Leethub17/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
