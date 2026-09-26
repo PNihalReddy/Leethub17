@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/PNihalReddy/Leethub17/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/PNihalReddy/Leethub17/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/PNihalReddy/Leethub17/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/PNihalReddy/Leethub17/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/PNihalReddy/Leethub17/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/PNihalReddy/Leethub17/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/PNihalReddy/Leethub17/tree/master/0680-valid-palindrome-ii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/PNihalReddy/Leethub17/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/PNihalReddy/Leethub17/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/PNihalReddy/Leethub17/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/PNihalReddy/Leethub17/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/PNihalReddy/Leethub17/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/PNihalReddy/Leethub17/tree/master/0645-set-mismatch) |
 | [0976-largest-perimeter-triangle](https://github.com/PNihalReddy/Leethub17/tree/master/0976-largest-perimeter-triangle) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/PNihalReddy/Leethub17/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/PNihalReddy/Leethub17/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/PNihalReddy/Leethub17/tree/master/0295-find-median-from-data-stream) |
 | [1046-last-stone-weight](https://github.com/PNihalReddy/Leethub17/tree/master/1046-last-stone-weight) |
 ## Euclidean Algorithm
 |  |
@@ -267,4 +270,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/PNihalReddy/Leethub17/tree/master/0215-kth-largest-element-in-an-array) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/PNihalReddy/Leethub17/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/PNihalReddy/Leethub17/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
