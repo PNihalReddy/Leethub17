@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PNihalReddy/Leethub17/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/PNihalReddy/Leethub17/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/PNihalReddy/Leethub17/tree/master/0053-maximum-subarray) |
+| [0084-largest-rectangle-in-histogram](https://github.com/PNihalReddy/Leethub17/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/PNihalReddy/Leethub17/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/PNihalReddy/Leethub17/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PNihalReddy/Leethub17/tree/master/0215-kth-largest-element-in-an-array) |
@@ -140,10 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/PNihalReddy/Leethub17/tree/master/0084-largest-rectangle-in-histogram) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/PNihalReddy/Leethub17/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/PNihalReddy/Leethub17/tree/master/0084-largest-rectangle-in-histogram) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/PNihalReddy/Leethub17/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## String
 |  |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/PNihalReddy/Leethub17/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/PNihalReddy/Leethub17/tree/master/0239-sliding-window-maximum) |
 ## Tree
 |  |
