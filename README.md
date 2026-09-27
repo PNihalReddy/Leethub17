@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PNihalReddy/Leethub17/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2032-two-out-of-three](https://github.com/PNihalReddy/Leethub17/tree/master/2032-two-out-of-three) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/PNihalReddy/Leethub17/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/PNihalReddy/Leethub17/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/PNihalReddy/Leethub17/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/PNihalReddy/Leethub17/tree/master/2942-find-words-containing-character) |
 ## Prefix Sum
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/PNihalReddy/Leethub17/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2032-two-out-of-three](https://github.com/PNihalReddy/Leethub17/tree/master/2032-two-out-of-three) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/PNihalReddy/Leethub17/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/PNihalReddy/Leethub17/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/PNihalReddy/Leethub17/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/PNihalReddy/Leethub17/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2235-add-two-integers](https://github.com/PNihalReddy/Leethub17/tree/master/2235-add-two-integers) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/PNihalReddy/Leethub17/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2652-sum-multiples](https://github.com/PNihalReddy/Leethub17/tree/master/2652-sum-multiples) |
 | [2843-count-symmetric-integers](https://github.com/PNihalReddy/Leethub17/tree/master/2843-count-symmetric-integers) |
 ## Dynamic Programming
@@ -213,10 +216,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/PNihalReddy/Leethub17/tree/master/1071-greatest-common-divisor-of-strings) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/PNihalReddy/Leethub17/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/PNihalReddy/Leethub17/tree/master/1071-greatest-common-divisor-of-strings) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/PNihalReddy/Leethub17/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -284,4 +289,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/PNihalReddy/Leethub17/tree/master/0295-find-median-from-data-stream) |
+## Number Theory
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/PNihalReddy/Leethub17/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Prime Factorization
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/PNihalReddy/Leethub17/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Primality Test
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/PNihalReddy/Leethub17/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Sieve Theory
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/PNihalReddy/Leethub17/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/PNihalReddy/Leethub17/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 <!---LeetCode Topics End-->
