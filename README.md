@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/PNihalReddy/Leethub17/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PNihalReddy/Leethub17/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/PNihalReddy/Leethub17/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/PNihalReddy/Leethub17/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PNihalReddy/Leethub17/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/PNihalReddy/Leethub17/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/PNihalReddy/Leethub17/tree/master/0645-set-mismatch) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/PNihalReddy/Leethub17/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/PNihalReddy/Leethub17/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/PNihalReddy/Leethub17/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/PNihalReddy/Leethub17/tree/master/0383-ransom-note) |
 | [0680-valid-palindrome-ii](https://github.com/PNihalReddy/Leethub17/tree/master/0680-valid-palindrome-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/PNihalReddy/Leethub17/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1108-defanging-an-ip-address](https://github.com/PNihalReddy/Leethub17/tree/master/1108-defanging-an-ip-address) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PNihalReddy/Leethub17/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/PNihalReddy/Leethub17/tree/master/0383-ransom-note) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PNihalReddy/Leethub17/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Recursion
 |  |
