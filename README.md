@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/PNihalReddy/Leethub17/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/PNihalReddy/Leethub17/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/PNihalReddy/Leethub17/tree/master/0066-plus-one) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/PNihalReddy/Leethub17/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/PNihalReddy/Leethub17/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/PNihalReddy/Leethub17/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/PNihalReddy/Leethub17/tree/master/0152-maximum-product-subarray) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/PNihalReddy/Leethub17/tree/master/0027-remove-element) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/PNihalReddy/Leethub17/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/PNihalReddy/Leethub17/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PNihalReddy/Leethub17/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/PNihalReddy/Leethub17/tree/master/0287-find-the-duplicate-number) |
