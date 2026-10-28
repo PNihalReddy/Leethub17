@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/PNihalReddy/Leethub17/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2652-sum-multiples](https://github.com/PNihalReddy/Leethub17/tree/master/2652-sum-multiples) |
 | [2843-count-symmetric-integers](https://github.com/PNihalReddy/Leethub17/tree/master/2843-count-symmetric-integers) |
+| [3783-mirror-distance-of-an-integer](https://github.com/PNihalReddy/Leethub17/tree/master/3783-mirror-distance-of-an-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
