@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/PNihalReddy/Leethub17/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/PNihalReddy/Leethub17/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2652-sum-multiples](https://github.com/PNihalReddy/Leethub17/tree/master/2652-sum-multiples) |
+| [2769-find-the-maximum-achievable-number](https://github.com/PNihalReddy/Leethub17/tree/master/2769-find-the-maximum-achievable-number) |
 | [2843-count-symmetric-integers](https://github.com/PNihalReddy/Leethub17/tree/master/2843-count-symmetric-integers) |
 | [3783-mirror-distance-of-an-integer](https://github.com/PNihalReddy/Leethub17/tree/master/3783-mirror-distance-of-an-integer) |
 ## Dynamic Programming
