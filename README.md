@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/PNihalReddy/Leethub17/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PNihalReddy/Leethub17/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/PNihalReddy/Leethub17/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1720-decode-xored-array](https://github.com/PNihalReddy/Leethub17/tree/master/1720-decode-xored-array) |
 | [1732-find-the-highest-altitude](https://github.com/PNihalReddy/Leethub17/tree/master/1732-find-the-highest-altitude) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PNihalReddy/Leethub17/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2032-two-out-of-three](https://github.com/PNihalReddy/Leethub17/tree/master/2032-two-out-of-three) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/PNihalReddy/Leethub17/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/PNihalReddy/Leethub17/tree/master/0645-set-mismatch) |
 | [1486-xor-operation-in-an-array](https://github.com/PNihalReddy/Leethub17/tree/master/1486-xor-operation-in-an-array) |
+| [1720-decode-xored-array](https://github.com/PNihalReddy/Leethub17/tree/master/1720-decode-xored-array) |
 | [2032-two-out-of-three](https://github.com/PNihalReddy/Leethub17/tree/master/2032-two-out-of-three) |
 ## Divide and Conquer
 |  |
