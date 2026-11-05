@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/PNihalReddy/Leethub17/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/PNihalReddy/Leethub17/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/PNihalReddy/Leethub17/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/PNihalReddy/Leethub17/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/PNihalReddy/Leethub17/tree/master/2942-find-words-containing-character) |
 | [3731-find-missing-elements](https://github.com/PNihalReddy/Leethub17/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/PNihalReddy/Leethub17/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/PNihalReddy/Leethub17/tree/master/0876-middle-of-the-linked-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/PNihalReddy/Leethub17/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/PNihalReddy/Leethub17/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/PNihalReddy/Leethub17/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/PNihalReddy/Leethub17/tree/master/0633-sum-of-square-numbers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/PNihalReddy/Leethub17/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/PNihalReddy/Leethub17/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/PNihalReddy/Leethub17/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PNihalReddy/Leethub17/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PNihalReddy/Leethub17/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/PNihalReddy/Leethub17/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3731-find-missing-elements](https://github.com/PNihalReddy/Leethub17/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
