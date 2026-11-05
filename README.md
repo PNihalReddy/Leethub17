@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/PNihalReddy/Leethub17/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/PNihalReddy/Leethub17/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/PNihalReddy/Leethub17/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1486-xor-operation-in-an-array](https://github.com/PNihalReddy/Leethub17/tree/master/1486-xor-operation-in-an-array) |
 | [2235-add-two-integers](https://github.com/PNihalReddy/Leethub17/tree/master/2235-add-two-integers) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/PNihalReddy/Leethub17/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/PNihalReddy/Leethub17/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/PNihalReddy/Leethub17/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/PNihalReddy/Leethub17/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/PNihalReddy/Leethub17/tree/master/0645-set-mismatch) |
+| [1486-xor-operation-in-an-array](https://github.com/PNihalReddy/Leethub17/tree/master/1486-xor-operation-in-an-array) |
 | [2032-two-out-of-three](https://github.com/PNihalReddy/Leethub17/tree/master/2032-two-out-of-three) |
 ## Divide and Conquer
 |  |
