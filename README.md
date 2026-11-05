@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/PNihalReddy/Leethub17/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/PNihalReddy/Leethub17/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1486-xor-operation-in-an-array](https://github.com/PNihalReddy/Leethub17/tree/master/1486-xor-operation-in-an-array) |
+| [1688-count-of-matches-in-tournament](https://github.com/PNihalReddy/Leethub17/tree/master/1688-count-of-matches-in-tournament) |
 | [2235-add-two-integers](https://github.com/PNihalReddy/Leethub17/tree/master/2235-add-two-integers) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/PNihalReddy/Leethub17/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/PNihalReddy/Leethub17/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/PNihalReddy/Leethub17/tree/master/1688-count-of-matches-in-tournament) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/PNihalReddy/Leethub17/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Binary Search Tree
 |  |
