@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/PNihalReddy/Leethub17/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/PNihalReddy/Leethub17/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/PNihalReddy/Leethub17/tree/master/2942-find-words-containing-character) |
+| [3731-find-missing-elements](https://github.com/PNihalReddy/Leethub17/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/PNihalReddy/Leethub17/tree/master/2032-two-out-of-three) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/PNihalReddy/Leethub17/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/PNihalReddy/Leethub17/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [3731-find-missing-elements](https://github.com/PNihalReddy/Leethub17/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/PNihalReddy/Leethub17/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PNihalReddy/Leethub17/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PNihalReddy/Leethub17/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3731-find-missing-elements](https://github.com/PNihalReddy/Leethub17/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
