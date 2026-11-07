@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/PNihalReddy/Leethub17/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PNihalReddy/Leethub17/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PNihalReddy/Leethub17/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/PNihalReddy/Leethub17/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/PNihalReddy/Leethub17/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/PNihalReddy/Leethub17/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/PNihalReddy/Leethub17/tree/master/0349-intersection-of-two-arrays) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/PNihalReddy/Leethub17/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PNihalReddy/Leethub17/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PNihalReddy/Leethub17/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/PNihalReddy/Leethub17/tree/master/0234-palindrome-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/PNihalReddy/Leethub17/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/PNihalReddy/Leethub17/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/PNihalReddy/Leethub17/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/PNihalReddy/Leethub17/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/PNihalReddy/Leethub17/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/PNihalReddy/Leethub17/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PNihalReddy/Leethub17/tree/master/0342-power-of-four) |
 ## Bit Manipulation
@@ -438,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/PNihalReddy/Leethub17/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PNihalReddy/Leethub17/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/PNihalReddy/Leethub17/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/PNihalReddy/Leethub17/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/PNihalReddy/Leethub17/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/PNihalReddy/Leethub17/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
