@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/PNihalReddy/Leethub17/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/PNihalReddy/Leethub17/tree/master/2942-find-words-containing-character) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/PNihalReddy/Leethub17/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3467-transform-array-by-parity](https://github.com/PNihalReddy/Leethub17/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/PNihalReddy/Leethub17/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PNihalReddy/Leethub17/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/PNihalReddy/Leethub17/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/PNihalReddy/Leethub17/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3467-transform-array-by-parity](https://github.com/PNihalReddy/Leethub17/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/PNihalReddy/Leethub17/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/PNihalReddy/Leethub17/tree/master/0383-ransom-note) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PNihalReddy/Leethub17/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/PNihalReddy/Leethub17/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [3467-transform-array-by-parity](https://github.com/PNihalReddy/Leethub17/tree/master/3467-transform-array-by-parity) |
 ## Recursion
 |  |
 | ------- |
