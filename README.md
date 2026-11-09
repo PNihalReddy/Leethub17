@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/PNihalReddy/Leethub17/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/PNihalReddy/Leethub17/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/PNihalReddy/Leethub17/tree/master/2942-find-words-containing-character) |
+| [2974-minimum-number-game](https://github.com/PNihalReddy/Leethub17/tree/master/2974-minimum-number-game) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/PNihalReddy/Leethub17/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3467-transform-array-by-parity](https://github.com/PNihalReddy/Leethub17/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/PNihalReddy/Leethub17/tree/master/3731-find-missing-elements) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PNihalReddy/Leethub17/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/PNihalReddy/Leethub17/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/PNihalReddy/Leethub17/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2974-minimum-number-game](https://github.com/PNihalReddy/Leethub17/tree/master/2974-minimum-number-game) |
 | [3467-transform-array-by-parity](https://github.com/PNihalReddy/Leethub17/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/PNihalReddy/Leethub17/tree/master/3731-find-missing-elements) |
 ## Math
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/PNihalReddy/Leethub17/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/PNihalReddy/Leethub17/tree/master/0295-find-median-from-data-stream) |
 | [1046-last-stone-weight](https://github.com/PNihalReddy/Leethub17/tree/master/1046-last-stone-weight) |
+| [2974-minimum-number-game](https://github.com/PNihalReddy/Leethub17/tree/master/2974-minimum-number-game) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/PNihalReddy/Leethub17/tree/master/1688-count-of-matches-in-tournament) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/PNihalReddy/Leethub17/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2974-minimum-number-game](https://github.com/PNihalReddy/Leethub17/tree/master/2974-minimum-number-game) |
 ## Binary Search Tree
 |  |
 | ------- |
