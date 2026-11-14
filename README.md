@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/PNihalReddy/Leethub17/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/PNihalReddy/Leethub17/tree/master/2974-minimum-number-game) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/PNihalReddy/Leethub17/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/PNihalReddy/Leethub17/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3285-find-indices-of-stable-mountains](https://github.com/PNihalReddy/Leethub17/tree/master/3285-find-indices-of-stable-mountains) |
 | [3467-transform-array-by-parity](https://github.com/PNihalReddy/Leethub17/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/PNihalReddy/Leethub17/tree/master/3731-find-missing-elements) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/PNihalReddy/Leethub17/tree/master/0876-middle-of-the-linked-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/PNihalReddy/Leethub17/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/PNihalReddy/Leethub17/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/PNihalReddy/Leethub17/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/PNihalReddy/Leethub17/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/PNihalReddy/Leethub17/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/PNihalReddy/Leethub17/tree/master/2974-minimum-number-game) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/PNihalReddy/Leethub17/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3467-transform-array-by-parity](https://github.com/PNihalReddy/Leethub17/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/PNihalReddy/Leethub17/tree/master/3731-find-missing-elements) |
 ## Math
