@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/PNihalReddy/Leethub17/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/PNihalReddy/Leethub17/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/PNihalReddy/Leethub17/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/PNihalReddy/Leethub17/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2942-find-words-containing-character](https://github.com/PNihalReddy/Leethub17/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/PNihalReddy/Leethub17/tree/master/2974-minimum-number-game) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/PNihalReddy/Leethub17/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/PNihalReddy/Leethub17/tree/master/1486-xor-operation-in-an-array) |
 | [1720-decode-xored-array](https://github.com/PNihalReddy/Leethub17/tree/master/1720-decode-xored-array) |
 | [2032-two-out-of-three](https://github.com/PNihalReddy/Leethub17/tree/master/2032-two-out-of-three) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/PNihalReddy/Leethub17/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Divide and Conquer
 |  |
 | ------- |
